@@ -24,7 +24,7 @@ Robert A. Bjork: I am Distinguished Professor and Chair of Psychology at the Uni
 
 Elizabeth Bjork: My interests in optimizing learning were triggered by interactions with students lamenting during office hours how hard they had studied, only then to perform poorly on a just-given exam. This motivated me to examine why students’ study activities were sometimes so ineffective. 
 
-伊丽莎白·比约克（Elizabeth Bjork）：我对提高学习效率的研究，源自于学生们总是感叹无论他们平常学习时多努力刻苦，但一到考试就考不好。这促使了我思考为什么学生们的学习常常效率低下。
+伊丽莎白·比约克（Elizabeth Bjork）：我对提高学习效率的研究，源自于学生们总是感叹他们学习努力刻苦，却在考试中表现糟糕。这促使了我思考为什么学生们的学习常常效率低下。
 
 Robert Bjork: My interests go back to my efforts—as a graduate student— to understand the relationship of forgetting and learning, especially why inducing forgetting often enhances subsequent learning. My interests in the application of “desirable difficulties” were fanned by my experiences teaching and coaching and from what I learned as Chair of the National Research Council Committee on Techniques for the Enhancement of Human Performance (1988–1994). 
 
