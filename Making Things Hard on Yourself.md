@@ -13,7 +13,7 @@ University of California, Los Angeles
 
 Elizabeth Ligon Bjork: I am Professor of Psychology and Immediate-Past Chair of the University of California, Los Angeles, Academic Senate. My research interests have included visual attention and developmental processes but now focus on practical and theoretical issues in human memory and learning, particularly the role that inhibitory processes play in an efficient memory system. 
 
-伊丽莎白·里根·比约克（Elizabeth Ligon Bjork）：我是洛杉机加州大学的心理学教授。我的研究方向是视觉注意力及其发展过程，但现在专注于人类记忆和学习的实际与理论的关系，特别是在有效记忆中的作用。
+伊丽莎白·里根·比约克（Elizabeth Ligon Bjork）：我是加州大学洛杉矶分校的心理学教授，前任学术委员会主席。我的研究方向是视觉注意力及其发展过程，但现在专注于人类记忆和学习相关的实践与理论问题，特别是抑制加工在高效记忆系统中的作用。
 
 Robert A. Bjork: I am Distinguished Professor and Chair of Psychology at the University of California, Los Angeles. My research focuses on human learning and memory and on the implications of the science of learning for instruction and training. 
 
@@ -24,7 +24,7 @@ Robert A. Bjork: I am Distinguished Professor and Chair of Psychology at the Uni
 
 Elizabeth Bjork: My interests in optimizing learning were triggered by interactions with students lamenting during office hours how hard they had studied, only then to perform poorly on a just-given exam. This motivated me to examine why students’ study activities were sometimes so ineffective. 
 
-伊丽莎白·比约克（Elizabeth Bjork）：我对提高学习效率的研究，源自于学生们总是感叹无论他们平常学习时多努力刻苦，但一到考试就考不好。这促使了我思考为什么学生们的学习常常效率低下。
+伊丽莎白·比约克（Elizabeth Bjork）：我对提高学习效率的研究，源自于学生们总是感叹他们学习努力刻苦，却在考试中表现糟糕。这促使了我思考为什么学生们的学习常常效率低下。
 
 Robert Bjork: My interests go back to my efforts—as a graduate student— to understand the relationship of forgetting and learning, especially why inducing forgetting often enhances subsequent learning. My interests in the application of “desirable difficulties” were fanned by my experiences teaching and coaching and from what I learned as Chair of the National Research Council Committee on Techniques for the Enhancement of Human Performance (1988–1994). 
 
