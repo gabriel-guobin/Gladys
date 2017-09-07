@@ -61,8 +61,7 @@ Decades ago, learning theorists were forced to distinguish between learning and 
 
 More recently, a variety of experiments—some of which we summarize below—have demonstrated that the converse is true as well: Namely, substantial improvements in performance across practice or training sessions can occur without significant learning (as revealed after a delay or in another context). To the extent, therefore, that people interpret current performance as a valid measure of learning, they become susceptible to misassessing whether learning has or has not occurred. 
 
-最近，大量实验表明（部分实验将在下文概述）也证明这一点确实如此：即，在实践或培训课程中，表现的实质性改善并没有明显引起学习质的变化（稍后作概述）。因此，在某种程度上，人们将目前的表现认作为有效的学习措施，他们容易会被误认为学习是否已经发生。
-
+最近，大量实验（部分实验将在下文概述）也证明这种转换确实存在：换句话说，即使没有显著的学习，通过实践和训练会也能获得外在表现的巨大进步（该观点之后后另作说明）。因此，某种程度上也可以说，学习者当下的表现无法作为学习效果的评估依据。
 
 ### Storage Strength Versus Retrieval Strength 
 ### 存储强度与检索强度
