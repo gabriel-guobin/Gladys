@@ -50,7 +50,7 @@ The basic problem learners confront is that we can easily be misled as to whethe
 
 This apparent paradox is a new twist on an old and time-honored distinction in psychology—namely, the distinction between learning and performance. Performance is what we can observe and measure during instruction or training. Learning—that is, the more or less permanent change in knowledge or understanding that is the target of instruction—is something we must try to infer, and current performance can be a highly unreliable index of whether learning has occurred. 
 
-这个矛盾点也是新旧心理学的区别，即学习与表现的关系。表现，在平时学习生活中可以观察与测试的。学习，也就是说，在教学中培训中，了解其知识掌握的变化，这是我们必须推测的，而以现在的表现去了解学习状况则是非常不靠谱的指标。
+这个矛盾点也是新旧心理学的区别，即学习与表现的关系。表现是在教学中可以直接观察和衡量的。学习更多的是知识和理解能力的永久改变，这也正是教学的目标。一方面，我们在教学中必须尝试推断这种永久改变程度，另一方面，若以当前的表现为指标，评判学习效果则非常靠不住。
 
 ### Learning Without Performance and Performance Without Learning 
 ### 没有表现的学习和没有学习的表现
