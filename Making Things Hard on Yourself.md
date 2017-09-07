@@ -57,7 +57,7 @@ This apparent paradox is a new twist on an old and time-honored distinction in p
 
 Decades ago, learning theorists were forced to distinguish between learning and performance because experiments revealed that considerable learning could happen across a period when no change was apparent in performance. In latent-learning experiments with animals, for example, periods of free exploration of a maze, during which the animal’s behavior seemed aimless, were shown—once reward was introduced—to have produced considerable learning. Similarly, in research on motor skills, investigators found that learning continued across trials during which the build-up of fatigue suppressed performance. 
 
-几十年前，学习理论家被迫区分学习和表现，因为实验表明，在一段时间内可以学习到很多知识，而在表现中没有明显任何变化。在动物的潜在学习实验中，例如，在自由探索迷宫的时期，在此期间，动物的行为看起来毫无目的，但一旦引入奖励，动物则可被训练。同样的，在研究运动技能方面，调查人员发现，持续不断的学习，疲劳的积聚抑制了表现。
+几十年前的实验就表明，长期的大量学习并不一定表现出变化。这迫使学习理论家研究学习和表现的区别。在动物的潜在学习实验中，例如，在动物自由探索迷宫期间，行为表现为漫无目的，而一旦引入奖励，则开始大量学习。同样的，在运动技能的研究中，调查人员发现，在持续不断的实验中所积累的疲劳抑制了学习效果的表现。
 
 More recently, a variety of experiments—some of which we summarize below—have demonstrated that the converse is true as well: Namely, substantial improvements in performance across practice or training sessions can occur without significant learning (as revealed after a delay or in another context). To the extent, therefore, that people interpret current performance as a valid measure of learning, they become susceptible to misassessing whether learning has or has not occurred. 
 
