@@ -43,7 +43,7 @@ As teachers—and learners—the two of us have had both a professional and pers
 
 The basic problem learners confront is that we can easily be misled as to whether we are learning effectively and have or have not achieved a level of learning and comprehension that will support our subsequent access to information or skills we are trying to learn. We can be misled by our subjective impressions. Rereading a chapter a second time, for example, can provide a sense of familiarity or perceptual fluency that we interpret as understanding or comprehension, but may actually be a product of low-level perceptual priming. Similarly, information coming readily to mind can be interpreted as evidence of learning, but could instead be a product of cues that are present in the study situation, but that are unlikely to be present at a later time. We can also be misled by our current performance. Conditions of learning that make performance improve rapidly often fail to support long-term retention and transfer, whereas conditions that create challenges and slow the rate of apparent learning often optimize long-term retention and transfer. 
 
-学习者面临基本问题是我们很容易被误导，我们学习是否有效或者是否已经完全理解，足以明白随后学习的信息以及知识技能。我们容易被主观印象误导。例如，我们重读一章节，容易形成一种我们已经“学会”了的认知，但是实际可能是低级知觉启动的产物。同样，信息快速的提取被认为是“学会的”的证据，而实际上只是学习过程中的记忆线索而已，一段时间之后可能就会衰减甚至消失。我们同样也容易被表面现象迷惑。快速提升学习效率的方法，常常不能长时记忆和转化，而创造必要难度和降低学习速度能加强长时记忆和转化。
+学习者很容易在这几个基本问题陷入误区。现在的学习真的有效吗？已经掌握到什么程度了？是否已经达到足够的水平可以进入下个阶段的学习？主观印象往往是假象。例如，将一个章节其重读一遍可以很容易地提高学习者对它的熟悉性或知觉流畅性，视作“理解”或“领会”的信号。实际上，这种感觉仅是低水平知觉启动的产物。同样，学习时头脑快速闪过的信息就代表学会了吗？这种学习过程中的线索性信息很可能一段时间后就再也不记得了。学习者还容易被自己当前的表现迷惑。速成的学习往往无法植入长时记忆，难以迁移。而那些创造必要难度、甚至看起来进度缓慢的学习却能优化长时记忆，提高迁移能力。
 
 ### Learning versus Performance 
 ### 学习与表现
