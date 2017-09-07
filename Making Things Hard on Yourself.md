@@ -108,7 +108,7 @@ The effects of distributed practice on learning are complex. Although massing pr
 
 Rather than describing any of the myriad studies that have demonstrated the benefits of spacing, we will simply stress the importance of incorporating spacing and avoiding massing in managing learning. Massing repeated-study activities is often not only convenient, but it can also seem logical from the standpoint of organizing one’s learning of different topics, and it frequently results in rapid gains in apparent learning. Good test performance following an all-night cramming session is certainly rewarding, but little of what was recallable on the test will remain recallable over time. In contrast, a study schedule that spaces study sessions on a particular topic can produce both good exam performance and good long-term retention. Furthermore, because new learning depends on prior learning, spacing study sessions optimally can also enhance transfer of knowledge and provide a foundation for subsequent new learning. 
 
-无数研究表明间隔练习的好处，我们将着重介绍间隔练习和避免集中大量学习的重要性。大量重复的学习活动不仅易于操作，而且从不同的角度来看似乎也合常理，其也常常看到明显的学习快速增长。全天候的填鸭式学习肯定会获得一个好的测试成绩，但是随着时间推移，测试中的内容则只剩下少部分内容被记起。相对的，按照学习计划对特定主题进行间隔学习，则不仅可以获得优异成绩，也能保持长时记忆。此外，新知识依赖于先前学习的知识，间隔学习也能最大化的提高知识的转化，为后续学习新知识奠定基础。
+无数研究已证实间隔练习的好处，我们着重介绍间隔练习和避免集中大量学习的重要性。大量重复的学习活动不仅易于操作，而且从不同的角度来看似乎也合常理，其也常常看到明显的学习快速增长。通宵抱佛脚取得好成绩当然值得，但是随着时间推移，测试的内容只剩下少部分还能记起。相对的，按照学习计划对特定主题进行间隔学习，不仅能取得好成绩，也能保持长时记忆。此外，新知识依赖于先前学习的知识，间隔学习也能最大化的提高知识的转化，为后续学习新知识奠定基础。
 
 ### Interleaving versus Blocking Instruction on Separate To-Be-Learned Tasks 
 ### 交错式学习与批量式学习
