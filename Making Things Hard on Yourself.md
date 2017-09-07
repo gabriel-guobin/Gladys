@@ -80,7 +80,7 @@ So what are these better conditions of learning that, while apparently creating 
 
 Before proceeding further, we need to emphasize the importance of the word desirable. Many difficulties are undesirable during instruction and forever after. Desirable difficulties, versus the array of undesirable difficulties, are desirable because they trigger encoding and retrieval processes that support learning, comprehension, and remembering. If, however, the learner does not have the background knowledge or skills to respond to them successfully, they become undesirable difficulties. 
 
-在进一步讨论前，我们需要强调 「必要(desirable)」 这个词的重要性。在此之后的教学中，许多困难都是不必要。必要难度与那些不必要困难相比，必要难度是必须的，因为它需要在你学习之上的理解、记忆中去检索信息。然而，如果学习者没有相关知识背景或技能来支撑，那么就没有在必要难度范围内。
+在进一步讨论前，我们需要强调 「必要(desirable)」 这个词的重要性。很多困难是在教学中是不必要的。「必要难度（desirable difficulties）」的关键在于恰到好处地触发**编码和检索过程**（encoding and retrieval processes），这一步正是支撑学习、理解和记忆的关键。然而，如果学习者没有相关背景知识或技能来成功触发编码和检索，就会成为不必要的困难。
 
 
 ### Varying the Conditions of Practice 
