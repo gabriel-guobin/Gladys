@@ -76,7 +76,7 @@ At a theoretical level, we (Bjork & Bjork, 1992) distinguish between the storage
 
 So what are these better conditions of learning that, while apparently creating difficulty, actually lead to more durable and flexible learning? Such desirable difficulties (Bjork, 1994) include varying the conditions of learning, rather than keeping them constant and predictable; interleaving instruction on separate topics, rather than grouping instruction by topic (called blocking); spacing, rather than massing, study sessions on a given topic; and using tests, rather than presentations, as study events. 
 
-那么，什么情况下学习效果会更好呢？看似提高了难度，实际却带来更持久、灵活的学习效果。这种 必要难度（desirable difficulties） (Bjork, 1994)包括：改变学习条件，而不是保持学习的固定和可预测；不同主题交叉教学，而不是集中教学一个主题(called blocking)；对固定主题学习，需间隔学习而非集中学习；用测试作为学习活动，而非讲授。
+那么，什么情况下学习效果会更好呢？看似提高了难度，实际却带来更持久、灵活的学习效果。这种 必要难度（desirable difficulties） (Bjork, 1994)包括：变换学习情境、方法等因素，而不是保持的固定和可预测模式；不同主题交叉教学，而不是集中教学一个主题(called blocking)；对固定主题学习，需间隔学习而非集中学习；用测试作为学习活动，而非讲授。
 
 Before proceeding further, we need to emphasize the importance of the word desirable. Many difficulties are undesirable during instruction and forever after. Desirable difficulties, versus the array of undesirable difficulties, are desirable because they trigger encoding and retrieval processes that support learning, comprehension, and remembering. If, however, the learner does not have the background knowledge or skills to respond to them successfully, they become undesirable difficulties. 
 
