@@ -20,7 +20,7 @@ Robert A. Bjork: I am Distinguished Professor and Chair of Psychology at the Uni
 罗伯特·比约克（Robert A. Bjork）：我是洛杉矶加州大学特聘心理学教授。 我的研究重点是人类的学习和记忆，以及对练习的影响。
 
 #### How did you get interested in studying the facilitating effect of apparent impediments to learning? 
-► 是什么引起了你对学习阻碍的研究? 
+► 你们是怎样对「表面障碍促进学习」产生研究兴趣的? 
 
 Elizabeth Bjork: My interests in optimizing learning were triggered by interactions with students lamenting during office hours how hard they had studied, only then to perform poorly on a just-given exam. This motivated me to examine why students’ study activities were sometimes so ineffective. 
 
@@ -28,7 +28,7 @@ Elizabeth Bjork: My interests in optimizing learning were triggered by interacti
 
 Robert Bjork: My interests go back to my efforts—as a graduate student— to understand the relationship of forgetting and learning, especially why inducing forgetting often enhances subsequent learning. My interests in the application of “desirable difficulties” were fanned by my experiences teaching and coaching and from what I learned as Chair of the National Research Council Committee on Techniques for the Enhancement of Human Performance (1988–1994). 
 
-罗伯特·比约克（Robert Bjork）：当我还是研究生的时候，就开始研究遗忘与学习的关系，尤其如何利用遗忘的频率提高学习效率。我研究「必要难度」运用的动机，是在担任国家技术研究委员会主席时的经历（1988-1994年）。
+罗伯特·比约克（Robert Bjork）：当我还是研究生的时候，就开始研究遗忘与学习的关系，特别是为什么利用遗忘会提高后续的学习效果。后来的从事了教学、指导工作，并担任国家技术研究委员会主席从事人类表现增强的课题（1988-1994年），这些经历让我更致力于将「必要难度」理论推向应用。
 
 #### What has been the real-world impact of this work?
 ► 这项研究对社会有什么影响？
