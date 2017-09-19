@@ -13,22 +13,22 @@ University of California, Los Angeles
 
 Elizabeth Ligon Bjork: I am Professor of Psychology and Immediate-Past Chair of the University of California, Los Angeles, Academic Senate. My research interests have included visual attention and developmental processes but now focus on practical and theoretical issues in human memory and learning, particularly the role that inhibitory processes play in an efficient memory system. 
 
-伊丽莎白·里根·比约克（Elizabeth Ligon Bjork）：我是洛杉机加州大学的心理学教授。我的研究方向是视觉注意力及其发展过程，但现在专注于人类记忆和学习的实际与理论的关系，特别是在有效记忆中的作用。
+伊丽莎白·里根·比约克（Elizabeth Ligon Bjork）：我是加州大学洛杉矶分校的心理学教授，前任学术委员会主席。我的研究方向是视觉注意力及其发展过程，但现在专注于人类记忆和学习相关的实践与理论问题，特别是抑制加工在高效记忆系统中的作用。
 
 Robert A. Bjork: I am Distinguished Professor and Chair of Psychology at the University of California, Los Angeles. My research focuses on human learning and memory and on the implications of the science of learning for instruction and training. 
 
 罗伯特·比约克（Robert A. Bjork）：我是洛杉矶加州大学特聘心理学教授。 我的研究重点是人类的学习和记忆，以及对练习的影响。
 
 #### How did you get interested in studying the facilitating effect of apparent impediments to learning? 
-► 是什么引起了你对学习阻碍的研究? 
+► 你们是怎样对「表面障碍促进学习」产生研究兴趣的? 
 
 Elizabeth Bjork: My interests in optimizing learning were triggered by interactions with students lamenting during office hours how hard they had studied, only then to perform poorly on a just-given exam. This motivated me to examine why students’ study activities were sometimes so ineffective. 
 
-伊丽莎白·比约克（Elizabeth Bjork）：我对提高学习效率的研究，源自于学生们总是感叹无论他们平常学习时多努力刻苦，但一到考试就考不好。这促使了我思考为什么学生们的学习常常效率低下。
+伊丽莎白·比约克（Elizabeth Bjork）：我对提高学习效率的研究，源自于学生们总是感叹他们学习努力刻苦，却在考试中表现糟糕。这促使了我思考为什么学生们的学习常常效率低下。
 
 Robert Bjork: My interests go back to my efforts—as a graduate student— to understand the relationship of forgetting and learning, especially why inducing forgetting often enhances subsequent learning. My interests in the application of “desirable difficulties” were fanned by my experiences teaching and coaching and from what I learned as Chair of the National Research Council Committee on Techniques for the Enhancement of Human Performance (1988–1994). 
 
-罗伯特·比约克（Robert Bjork）：当我还是研究生的时候，就开始研究遗忘与学习的关系，尤其如何利用遗忘的频率提高学习效率。我研究「必要难度」运用的动机，是在担任国家技术研究委员会主席时的经历（1988-1994年）。
+罗伯特·比约克（Robert Bjork）：当我还是研究生的时候，就开始研究遗忘与学习的关系，特别是为什么利用遗忘会提高后续的学习效果。后来的从事了教学、指导工作，并担任国家技术研究委员会主席从事人类表现增强的课题（1988-1994年），这些经历让我更致力于将「必要难度」理论推向应用。
 
 #### What has been the real-world impact of this work?
 ► 这项研究对社会有什么影响？
@@ -39,29 +39,29 @@ Overall, the impact has been slight. There are multiple indications, however, th
 
 As teachers—and learners—the two of us have had both a professional and personal interest in identifying the activities that make learning most effective and efficient. What we have discovered, broadly, across our careers in research, is that optimizing learning and instruction often requires going against one’s intuitions, deviating from standard instructional practices, and managing one’s own learning activities in new ways. Somewhat surprisingly, the trials and errors of everyday living and learning do not seem to result in the development of an accurate mental model of the self as learner or an appreciation of the activities that do and do not foster learning.
 
-作为老师和学者，我们从专业和自身角度去判断学习最有效的方法。经过我们大量研究发现，提升学习效率的方法常常违背自己的认知，偏离我们学习习惯，并以一种新的方式进行学习。有些令人惊讶的是，日常生活和学习的经验教训并不能提升学习者个体精确的心智模式水平，也不能提升对是否能够促进学习的方式方法的鉴别能力。
+作为老师和学者，我们从专业和自身角度去判断学习最有效的方法。经过我们大量研究发现，提升学习和教学效果的方法往往颠覆常识，偏离标准教学实践，并以一种新的方式管理学习活动。有些令人惊讶的是，日常生活和学习的经验教训并不能提升学习者个体精确的心智模式水平，也不能提升对是否能够促进学习的方式方法的鉴别能力。
 
 The basic problem learners confront is that we can easily be misled as to whether we are learning effectively and have or have not achieved a level of learning and comprehension that will support our subsequent access to information or skills we are trying to learn. We can be misled by our subjective impressions. Rereading a chapter a second time, for example, can provide a sense of familiarity or perceptual fluency that we interpret as understanding or comprehension, but may actually be a product of low-level perceptual priming. Similarly, information coming readily to mind can be interpreted as evidence of learning, but could instead be a product of cues that are present in the study situation, but that are unlikely to be present at a later time. We can also be misled by our current performance. Conditions of learning that make performance improve rapidly often fail to support long-term retention and transfer, whereas conditions that create challenges and slow the rate of apparent learning often optimize long-term retention and transfer. 
 
-学习者面临基本问题是我们很容易被误导，我们学习是否有效或者是否已经完全理解，足以明白随后学习的信息以及知识技能。我们容易被主观印象误导。例如，我们重读一章节，容易形成一种我们已经“学会”了的认知，但是实际可能是低级知觉启动的产物。同样，信息快速的提取被认为是“学会的”的证据，而实际上只是学习过程中的记忆线索而已，一段时间之后可能就会衰减甚至消失。我们同样也容易被表面现象迷惑。快速提升学习效率的方法，常常不能长时记忆和转化，而创造必要难度和降低学习速度能加强长时记忆和转化。
+学习者很容易在这几个基本问题陷入误区。现在的学习真的有效吗？已经掌握到什么程度了？是否已经达到足够的水平可以进入下个阶段的学习？主观印象往往是假象。例如，将一个章节其重读一遍可以很容易地提高学习者对它的熟悉性或知觉流畅性，视作“理解”或“领会”的信号。实际上，这种感觉仅是低水平知觉启动的产物。同样，学习时头脑快速闪现的信息就代表学会了吗？这种学习过程中的线索性信息很可能一段时间后就减弱或消失了。学习者还容易被学习过程中的暂时性结果所迷惑。速成的学习往往无法植入长时记忆，难以迁移。而那些在学习过程中形成一定的挑战（必要难度）、甚至看起来进度缓慢的学习却能使学习内容得到较好保持和迁移。
 
 ### Learning versus Performance 
 ### 学习与表现
 
 This apparent paradox is a new twist on an old and time-honored distinction in psychology—namely, the distinction between learning and performance. Performance is what we can observe and measure during instruction or training. Learning—that is, the more or less permanent change in knowledge or understanding that is the target of instruction—is something we must try to infer, and current performance can be a highly unreliable index of whether learning has occurred. 
 
-这个矛盾点也是新旧心理学的区别，即学习与表现的关系。表现，在平时学习生活中可以观察与测试的。学习，也就是说，在教学中培训中，了解其知识掌握的变化，这是我们必须推测的，而以现在的表现去了解学习状况则是非常不靠谱的指标。
+这个矛盾点也是新旧心理学的区别，即学习与表现的关系。表现是在教学中可以直接观察和衡量的。学习更多的是知识和理解能力的永久改变，这也正是教学的目标。一方面，我们在教学中必须尝试推断这种永久改变程度，另一方面，若以当前的表现为指标，评判学习效果则非常靠不住。
 
 ### Learning Without Performance and Performance Without Learning 
 ### 没有表现的学习和没有学习的表现
 
 Decades ago, learning theorists were forced to distinguish between learning and performance because experiments revealed that considerable learning could happen across a period when no change was apparent in performance. In latent-learning experiments with animals, for example, periods of free exploration of a maze, during which the animal’s behavior seemed aimless, were shown—once reward was introduced—to have produced considerable learning. Similarly, in research on motor skills, investigators found that learning continued across trials during which the build-up of fatigue suppressed performance. 
 
-几十年前，学习理论家被迫区分学习和表现，因为实验表明，在一段时间内可以学习到很多知识，而在表现中没有明显任何变化。在动物的潜在学习实验中，例如，在自由探索迷宫的时期，在此期间，动物的行为看起来毫无目的，但一旦引入奖励，动物则可被训练。同样的，在研究运动技能方面，调查人员发现，持续不断的学习，疲劳的积聚抑制了表现。
+几十年前的实验就表明，长期的大量学习并不一定表现出变化。这迫使学习理论家研究学习和表现的区别。在动物的潜在学习实验中，例如，在动物自由探索迷宫期间，行为表现为漫无目的，而一旦引入奖励，则开始大量学习。同样的，在运动技能的研究中，调查人员发现，在持续不断的实验中所积累的疲劳抑制了学习效果的表现。
 
 More recently, a variety of experiments—some of which we summarize below—have demonstrated that the converse is true as well: Namely, substantial improvements in performance across practice or training sessions can occur without significant learning (as revealed after a delay or in another context). To the extent, therefore, that people interpret current performance as a valid measure of learning, they become susceptible to misassessing whether learning has or has not occurred. 
 
-最近，大量实验表明（部分实验将在下文概述）也证明这一点确实如此：即，在实践或培训课程中，表现的实质性改善并没有明显引起学习质的变化（稍后作概述）。因此，在某种程度上，人们将目前的表现认作为有效的学习措施，他们容易会被误认为学习是否已经发生。
+最近，大量实验（部分实验将在下文概述）也证明这种转换确实存在：换句话说，即使没有显著的学习，通过实践和训练会也能获得外在表现的巨大进步（该观点之后后另作说明）。因此，某种程度上也可以说，学习者当下的表现无法作为学习效果的评估依据。
 
 
 ### Storage Strength Versus Retrieval Strength 
@@ -69,18 +69,18 @@ More recently, a variety of experiments—some of which we summarize below—hav
 
 At a theoretical level, we (Bjork & Bjork, 1992) distinguish between the storage strength and the retrieval strength of information or skills stored in memory. Storage strength reflects how entrenched or interassociated a memory representation is with related knowledge and skills, whereas retrieval strength reflects the current activation or accessibility of that representation and is heavily influenced by factors such as situational cues and recency of study or exposure. Importantly, we assume that current performance is entirely a function of current retrieval strength, but that storage strength acts to retard the loss (forgetting) and enhance the gain (relearning) of retrieval strength. The key idea for present purposes is that conditions that most rapidly increase retrieval strength differ from the conditions that maximize the gain of storage strength. In other words, if learners interpret current retrieval strength as storage strength, they become susceptible to preferring poorer conditions of learning to better conditions of learning. 
 
-在理论层面上，我们（Bjork＆Bjork，1992）分为存储强度和记忆信息检索强度。存储强度是指记忆表征中相关知识和技能的储存量，而检索强度指记忆表征的当前激活或可及性，并容易受到如情景暗示和新近学习的影响。重要的是，我们假设当前的表现与当前的检索强度呈正比例关系，而存储强度实则可以阻止丢失（遗忘）并提高检索强度。当前目的的关键在于，快速提高检索强度的的条件与最大化增强存储强度的条件不同。换句话说，如果学习者将当前检索强度理解为存储强度，他们将会进行低效学习。
+在理论层面上，我们（Bjork＆Bjork，1992）区分了信息和技能在记忆竞争的两种不同类型：存储优势（storage strength）与提取优势（retrieval strength）。存储优势是指某一记忆表征与相关知识和技能的巩固程度或内部联系程度；而提取优势指记忆表征的当下激活程度或可及性（accessibility），它主要受场景线索和新近所学内容的影响。重要的是，我们假设提取优势与个体在学习阶段的当下表现呈正比例关系，而存储优势的作用则在于防止（遗忘）并巩固提取优势所得。当前目的的关键在于，可迅速提高提取优势与增大储存优势的学习策略是不同的。换句话说，如果学习者将学习过程中的提取优势当作是存储优势，会倾向于更低效的学习方式。
 
 ### Introducing Desirable Difficulties to Enhance Learning and Instruction 
 ### 采用必要难度提高学习效率
 
 So what are these better conditions of learning that, while apparently creating difficulty, actually lead to more durable and flexible learning? Such desirable difficulties (Bjork, 1994) include varying the conditions of learning, rather than keeping them constant and predictable; interleaving instruction on separate topics, rather than grouping instruction by topic (called blocking); spacing, rather than massing, study sessions on a given topic; and using tests, rather than presentations, as study events. 
 
-那么，什么情况下学习效果会更好呢？看似提高了难度，实际却带来更持久、灵活的学习效果。这种 必要难度（desirable difficulties） (Bjork, 1994)包括：改变学习条件，而不是保持学习的固定和可预测；不同主题交叉教学，而不是集中教学一个主题(called blocking)；对固定主题学习，需间隔学习而非集中学习；用测试作为学习活动，而非讲授。
+那么，什么情况下学习效果会更好呢？看似提高了难度，实际却带来更持久、灵活的学习效果。这种 必要难度（desirable difficulties） (Bjork, 1994)包括：变换学习情境、方法等因素，而不是保持的固定和可预测模式；不同主题交叉教学，而不是集中教学一个主题(called blocking)；对固定主题学习，需间隔学习而非集中学习；用测试作为学习活动，而非讲授。
 
 Before proceeding further, we need to emphasize the importance of the word desirable. Many difficulties are undesirable during instruction and forever after. Desirable difficulties, versus the array of undesirable difficulties, are desirable because they trigger encoding and retrieval processes that support learning, comprehension, and remembering. If, however, the learner does not have the background knowledge or skills to respond to them successfully, they become undesirable difficulties. 
 
-在进一步讨论前，我们需要强调 「必要(desirable)」 这个词的重要性。在此之后的教学中，许多困难都是不必要。必要难度与那些不必要困难相比，必要难度是必须的，因为它需要在你学习之上的理解、记忆中去检索信息。然而，如果学习者没有相关知识背景或技能来支撑，那么就没有在必要难度范围内。
+在进一步讨论前，我们需要强调 「必要(desirable)」 这个词的重要性。很多困难是在教学中是不必要的。「必要难度（desirable difficulties）」的关键在于恰到好处地触发**编码和检索过程**（encoding and retrieval processes），这一步正是支撑学习、理解和记忆的关键。然而，如果学习者没有相关背景知识或技能来成功触发编码和检索，就没有在必要难度范围内。
 
 
 ### Varying the Conditions of Practice 
@@ -88,7 +88,7 @@ Before proceeding further, we need to emphasize the importance of the word desir
 
 When instruction occurs under conditions that are constrained and predictable, learning tends to become contextualized. Material is easily retrieved in that context, but the learning does not support later performance if tested at a delay, in a different context, or both. In contrast, varying conditions of practice—even varying the environmental setting in which study sessions take place—can enhance recall on a later test. For example, studying the same material in two different rooms rather than twice in the same room leads to increased recall of that material (Smith, Glenberg, & Bjork, 1978)—an empirical result that flies in the face of the common how- to-study suggestion to find a quiet, convenient place and do all your studying there. 
 
-当教学条件受到局限及可预测时，学习会倾向情境化。在这种情况下，立即检索信息很容易，但是如果推迟测试，或者改变情境，或两者皆有，那么学习效果则会大大折扣。相比之下，改变练习的条件，甚至改变学习环境，则可在稍后测试中提高信息检索能力。例如，在不同的两间房间中各学习一次同一份资料，比在同一个地方学习现两次，更容易提取材料信息（ Smith，Glenberg，＆Bjork，1978 ）。从这份研究结果看，传统学习建议总是呆一个地方似乎并不好。
+当教学局限在可预期性强的情境时，学习容易变得具有一定情境限制。在这种情况下，立即检索信息很容易，但如果推迟测试或改变情境，学习效果则大打折扣。相比而言，变换学习情境，甚至仅仅改变学习场所，都可以提高之后测试中记忆提取效果。例如，先后在不同房间学习相同材料，比在同一个地方学习两次，更容易回忆起材料的内容（ Smith，Glenberg，＆Bjork，1978 ）。从这份研究结果看，传统观念中总是呆一个安静的地方学习，似乎并不好。
 
 A study of children’s learning provides a striking illustration of the benefits of varying conditions of practice. Eight-year-olds and 12-year-olds practiced throwing beanbags at a target on the floor with their vision occluded at the time of each throw. For each age group, half of the children did all their practicing throwing to a target at a fixed distance (for example, 3 feet for the 8-year-olds), while the other half threw to targets that were closer or farther away. After the learning sessions and a delay, all children were tested at the distance used in the fixed-practice condition for their age group (Kerr & Booth, 1978). 
 
